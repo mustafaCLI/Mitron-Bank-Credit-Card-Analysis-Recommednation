@@ -10,6 +10,12 @@ So, they provided a sample dataset of 4000 customers across five cities like: Mu
 
 Now, the successful acquisition of this project depends on Peter's ability by providing actionable, data-driven credit card recommendations and impress Mr. Bashnir Rover.
 
+## Data Source-
+Data source provided by codebasics team. I've given the link below. We have two table 1. dim_Customer and 2. fact_Spend table.
+https://codebasics.io/challenge/codebasics-resume-project-challenge
+
+<img width="514" alt="dataset" src="https://github.com/mustafaCLI/Mitron-Bank-Credit-Card-Analysis-Recommednation/assets/121651184/08b6c299-c5e7-4a10-88d0-d7650e51e1e0">
+
 ## Final Insights Presented on Important Aspects
 ### A. Demographic Classification:
 1. Overall males count more than females also Married count more.
