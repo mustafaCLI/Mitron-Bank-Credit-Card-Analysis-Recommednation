@@ -1,7 +1,7 @@
-## Mitron-Bank-Credit-Card-Analysis--abd-Recommednation
-Description: After EDA & PDA of 4K custoemrs data, I've recommended best Credit Cards for the BFSI or financial market.
+## Mitron-Bank-Credit-Card-Analysis-and-Recommednation
+Description: After Exploratory & Prescriptive analysis of 4K custoemrs data, I've recommended best Credit Cards for the BFSI or financial market. This project is done using Power BI.
 ![linked in post](https://github.com/mustafaCLI/Mitron-Bank-Credit-Card-Analysis-Recommednation/assets/121651184/6de7aa51-264a-4e3f-945f-9256b04aed89)
-## Problem statement:
+## Problem Statement or Scenario:
 Mitron Bank is a financial institution headquartered in Hyderabad, wanted to introduce a new line of credit cards, aiming to broaden its product
 offerings in the financial market. Atliq Dataservices came to know about this through an internal link and approached Mitron Bank with a proposal to implement this project. 
 
@@ -10,7 +10,7 @@ So, they provided a sample dataset of 4000 customers across five cities like: Mu
 
 Now, the successful acquisition of this project depends on Peter's ability by providing actionable, data-driven credit card recommendations and impress Mr. Bashnir Rover.
 
-## Final Insights Presented on different  aspects-------------
+## Final Insights Presented on Important Aspects
 ### A. Demographic Classification:
 1. Overall males count more than females also Married count more.
 2. Max customers are from Mumbai, Chennai & Bengaluru cities.
@@ -22,7 +22,7 @@ Now, the successful acquisition of this project depends on Peter's ability by pr
 ### B. Spending Insights:
 1. Bills, groceries, electronics & health are the top3 sources of income spends
 2. Credit card, UPI & debit card are top3 payment types used.
-3. By occupation Salaried IT Employees & Business users have more income, also more spend whereas Gov. employee min spends w.r.to income.
+3. By occupation Salaried IT Employees & Business users have more income, also more spend whereas Gov. employee min spends w.r. to income.
 4. Customers from Mumbai & Delhi NCR have more income as well  more spend.
 5. Age-group 25-34, 35-45 have more income also spend more, but 45+ age group spends wisely, even though having more income.
 
@@ -36,8 +36,7 @@ Now, the successful acquisition of this project depends on Peter's ability by pr
 ### D. Key Customer Segments or Targets:
 #### 1. Segments ------------------------
 On the basis of more Income Util % by credit card & more customers count. 
-
-Target points-
+**Target points-**
 
 1. By City-  	Mumbai > Delhi NCR > Bengaluru
 2. By Age Group-  	25-34 > 35-45 
@@ -45,8 +44,8 @@ Target points-
 
 #### 2. Segments-------------------------
 On the basis of more Income Util % by UPI & also avg income util. by credit card more customers count. 
-As per RBI rules, if Mitron bank also enable credit card payment by upi app based feature where money will be debited from credit card not the bank accounts.
-Then target points-
+As per RBI rules, if Mitron bank also enable credit card payment by upi app based feature where money will be debited from credit card not the bank accounts. Then these will be either on first or second segment.
+**Target points-**
 
 1. By City-   		Mumbai > Delhi NCR > Bengaluru
 2. By Age Group-  	21-24 > 25-34 > 35-40 
@@ -54,7 +53,7 @@ Then target points-
 
 #### 3. Segments--------------------------
 On the basis of more Income Util % by Net banking & avg income util. by credit card- 
-Target will be,
+**Target will be,**
 
 1. By City-   Mumbai > Delhi NCR > Bengaluru
 2. By Age Group-  45+ > 35-45
@@ -68,9 +67,9 @@ Target will be,
 
 ### 2. Mitron Family Credit Card 
 
-a. **Features**: x% off or cashback on regular bill, electronics & daily groceries where customer is married male & 
+a) **Features**: x% off or cashback on regular bill, electronics & daily groceries where customer is married male and
 
-b. **Features**: 3 times free family health checkup in 1yr, y% off on bills, cashback on travel & electronics where customer is married female.
+b) **Features**: 3 times free family health checkup in 1yr, y% off on bills, cashback on travel & electronics where customer is married female.
 
 **Reason**: married male is utilizing more income on above mentioned, whereas married female is utilizing more income on health & wellness, bills, travel.
 
